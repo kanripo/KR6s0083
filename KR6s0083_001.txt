@@ -1,22 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:45.349872
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:36
 #+TITLE: 大秦景教流行中國碑頌
 #+PROPERTY: CBETA_ID T54n2144
 #+PROPERTY: ID KR6s0083
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 54, No. 2144
 #+PROPERTY: VOL 54
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0083_T_001-1289a> 
 #+PROPERTY: JUAN 1
 ¶
-No.2144¶
-
- 大秦景教流行中國碑頌(并序)¶
+No. 2144¶
+大秦景教流行中國碑頌(并序)¶
 ¶
 大秦寺僧景淨述¶
 
-大秦景教流行中國碑頌序
 粵若。常然真寂。先先而無元。窅然靈虛。後後¶
 而妙有。總玄摳而造化。妙眾聖以元尊者。其¶
 唯　我三一妙身無元真主阿羅訶歟判。十¶
@@ -61,7 +59,7 @@ No.2144¶
 壁。天姿汎彩。英朗景門。聖迹騰祥。永輝法¶
 界。案西域圖記及漢魏史策。大秦國南統珊¶
 瑚之海。北極眾寶之山。西望仙境花林。東接¶
-長風弱水。其土出火浣布．返魂香．明月珠．夜¶
+長風弱水。其土出火綄布．返魂香．明月珠．夜¶
 光璧。俗無寇盜。人有樂康。法非景不行。主非¶
 德不立。土宇廣濶。文物昌明。　高宗大帝。克¶
 恭纘祖。潤色真宗。而於諸州各置景寺。仍崇¶
